@@ -1,0 +1,12 @@
+build/
+cmake-cache/
+__pycache__/
+*.pyc
+*.o
+*.so
+*.pcap
+*.tr
+*.log
+.venv/
+.vscode/
+.idea/
